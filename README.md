@@ -16,5 +16,5 @@ I'm Bhoomika, a software developer with over 10 years of experience specializing
 ![](https://github-profile-trophy.vercel.app/?username=bhoomikamehtastartbit&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=bhoomikamehtastartbit&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=bhoomikamehtastartbit&limit=2&theme=dark&combine_all_yearly_contributions=true)
 
