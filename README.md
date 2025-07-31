@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Bhoomika, a software developer with over 10 years of experience specializing in full-stack development using the MERN stack, AWS services, and React Native. <br>I’ve led the architecture and implementation of several large-scale web and mobile platforms, particularly in the logistics and ERP domains.<br>Apart from that, I’m comfortable with Next.js, TypeScript, Redux, Tailwind CSS, Material UI, and even GraphQL.<br><br>I believe in building solutions that are not just technically strong but also aligned with actual business needs.<br>That’s a quick snapshot of my background.<br>
+I'm Bhoomika, a software developer with specializing in full-stack development using the MERN stack, AWS services, and React Native. <br>I’ve led the architecture and implementation of several large-scale web and mobile platforms, particularly in the logistics and ERP domains.<br>Apart from that, I’m comfortable with Next.js, TypeScript, Redux, Tailwind CSS, Material UI, and even GraphQL.<br><br>I believe in building solutions that are not just technically strong but also aligned with actual business needs.<br>That’s a quick snapshot of my background.<br>
 
 
 ## 🌐 Socials:
