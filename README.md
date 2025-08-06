@@ -64,7 +64,3 @@ I'm Bhoomika, a software developer with specializing in full-stack development u
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
 
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=bhoomikamehtastartbit&limit=2&theme=dark&combine_all_yearly_contributions=true)
-
