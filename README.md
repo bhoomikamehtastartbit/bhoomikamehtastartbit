@@ -5,18 +5,18 @@ I enjoy architecting end-to-end systems — from designing smooth, intuitive int
 
 Over the years, I’ve:
 
-Designed and implemented complex multi-role applications for logistics and enterprise operations
-Led feature development from concept to deployment while ensuring scalability and performance
-Worked with modern stacks like Next.js, TypeScript, Tailwind CSS, GraphQL, and Material UI
-Collaborated cross-functionally to align technical solutions with real business needs
-Contributed to architecture decisions and mentored developers to improve delivery standards
+Designed and implemented complex multi-role applications for logistics and enterprise operations<br/>
+Led feature development from concept to deployment while ensuring scalability and performance<br/>
+Worked with modern stacks like Next.js, TypeScript, Tailwind CSS, GraphQL, and Material UI<br/>
+Collaborated cross-functionally to align technical solutions with real business needs<br/>
+Contributed to architecture decisions and mentored developers to improve delivery standards<br/>
 
 🧩 What I value:
 
-Clean, reusable, and testable code
-Efficient problem-solving with a focus on real-world impact
-Staying agile and adaptable in fast-paced environments
-Bridging the gap between technical capabilities and business goals
+Clean, reusable, and testable code<br/>
+Efficient problem-solving with a focus on real-world impact<br/>
+Staying agile and adaptable in fast-paced environments<br/>
+Bridging the gap between technical capabilities and business goals<br/>
 
 
 ## 🌐 Socials:
