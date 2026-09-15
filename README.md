@@ -11,6 +11,7 @@ Worked with modern stacks like Next.js, TypeScript, Tailwind CSS, GraphQL, and M
 Collaborated cross-functionally to align technical solutions with real business needs<br/>
 Contributed to architecture decisions and mentored developers to improve delivery standards<br/>
 
+
 🧩 What I value:
 
 Clean, reusable, and testable code<br/>
